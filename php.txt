@@ -5,6 +5,18 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 PHP: Hypertext Preprocessor
 
+PHP is a general-purpose server-side scripting language
+originally designed for Web development to produce dynamic
+Web pages.  It is one of the first developed server-side
+scripting languages to be embedded into an HTML source
+document rather than calling an external file to process
+data.  The code is interpreted by a Web server with a
+PHP processor module which generates the resulting Web
+page.
+--wikipedia
+
+NOTE: Think I like this old first description best!
+
 
 PHP is a server-side scripting language designed for
 web development but also used as a general-purpose
@@ -13,6 +25,12 @@ in 1994,[3] the PHP reference implementation is now
 produced by The PHP Group.[4] PHP originally stood for
 Personal Home Page,[3] but it now stands for the recursive
 acronym PHP: Hypertext Preprocessor[5]
+--wikipedia
+
+
+Dynamically generated content is required.  Whilst I
+somewhat like jsp - I have it out for java.
+PHP is suitable.  Should probably learn ruby:)
 
 
 Links
@@ -29,3 +47,7 @@ Links
 PHP
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/PHP
+
+PHP: Hypertext Preprocessor
+http://www.php.net/
+
