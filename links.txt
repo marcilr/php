@@ -1,0 +1,13 @@
+links.txt
+Created Tue Mar 13 16:09:01 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+PHP related links
+
+
+Links
+=====
+PHP
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/PHP
