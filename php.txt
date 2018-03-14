@@ -1,0 +1,31 @@
+php.txt
+Created Tue Mar 13 16:04:40 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+PHP: Hypertext Preprocessor
+
+
+PHP is a server-side scripting language designed for
+web development but also used as a general-purpose
+programming language. Originally created by Rasmus Lerdorf
+in 1994,[3] the PHP reference implementation is now
+produced by The PHP Group.[4] PHP originally stood for
+Personal Home Page,[3] but it now stands for the recursive
+acronym PHP: Hypertext Preprocessor[5]
+
+
+Links
+=====
+[3] "History of PHP". php.net.
+    http://php.net/manual/en/history.php.php
+
+[4] "History of PHP and related projects". The PHP Group. Retrieved 2008-02-25.
+    http://www.php.net/history
+
+[5] PHP Manual: Preface, www.php.net
+    http://php.net/manual/en/preface.php
+
+PHP
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/PHP
