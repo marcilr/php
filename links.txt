@@ -1,6 +1,6 @@
 links.txt
-Created Tue Mar 13 16:09:01 AKDT 2018
-Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+Created Tue Aug 28 11:17:43 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 PHP related links
@@ -11,3 +11,19 @@ Links
 PHP
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/PHP
+
+PHP: Hypertext Preprocessor
+http://www.php.net
+
+PHP: PostgreSQL - Manual
+php.net/manual/en/book.pgsql.php
+
+PHP: PostgreSQL Functions - Manual
+php.net/manual/en/ref.pgsql.php
+
+PostgreSQL PHP Generator is a PostgreSQL GUI
+frontend that allows you to generate high-quality
+PHP scripts for the selected tables, views and
+queries for the further working with these objects
+through the web.
+http://www.sqlmaestro.com/products/postgresql/phpgenerator/
