@@ -8,6 +8,9 @@ Filelist
 links.txt
   PHP related links
 
+packages.txt
+  PHP packages
+
 php.txt
   PHP is a server-side scripting language designed for
   web development but also used as a general-purpose
