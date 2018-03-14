@@ -1,0 +1,10 @@
+packages.txt
+Created Tue Aug 28 11:14:57 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+PHP packages under debian squeeze 6.0.5 amd64.
+
+php5 - server-side, HTML-embedded scripting language (metapackage)
+php5-cgi - server-side, HTML-embedded scripting language (CGI binary)
+php5-cli - command-line interpreter for the php5 scripting language
